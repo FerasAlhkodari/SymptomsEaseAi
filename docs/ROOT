@@ -1,0 +1,20 @@
+DiseasesEaseAI/
+├── audio_handler.py    # Handles audio recording and transcription
+├── predictor.py        # Handles disease prediction
+├── ui_main.py          # Main user interface (entry point)
+├── models/             # AI models and Vosk model storage
+│   ├── trained_model.h5
+│   ├── features.pkl
+│   ├── scaler.pkl
+│   ├── vosk-model/
+├── data/               # Temporary storage for audio and transcriptions
+│   ├── session_audio/
+│   │   ├── session_1_audio.wav
+│   │   └── session_2_audio.wav
+│   ├── session_transcriptions/
+│       ├── session_1_transcription.txt
+│       └── session_2_transcription.txt
+|---Docs/
+├── requirements.txt    # Dependency list for seamless installation
+├── README.md           # Documentation
+└── tests/              # Unit and integration tests

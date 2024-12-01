@@ -1,0 +1,8 @@
+vosk==0.3.45          # For speech-to-text processing
+pyaudio==0.2.13       # For audio recording
+numpy==1.23.5         # For numerical computations
+tensorflow==2.9.1     # For loading and running the AI model
+scikit-learn==1.1.2   # For scaling and processing features
+Pillow==9.2.0         # For UI image processing
+tkintertable==1.3.2   # For advanced table functionalities in the UI
+pytest

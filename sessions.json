@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Session_1",
+        "path": "./data/sessions/Session_1",
+        "created_at": "2024-11-28T20:20:13.941891"
+    },
+    {
+        "name": "Session_2",
+        "path": "./data/sessions/Session_2",
+        "created_at": "2024-11-28T20:20:36.669370"
+    },
+    {
+        "name": "Session_3",
+        "path": "./data/sessions/Session_3",
+        "created_at": "2024-11-30T11:01:21.798344"
+    },
+    {
+        "name": "Session_4",
+        "path": "./data/sessions/Session_4",
+        "created_at": "2024-12-01T19:19:18.449615"
+    },
+    {
+        "name": "Session_5",
+        "path": "./data/sessions/Session_5",
+        "created_at": "2024-12-01T19:19:38.399988"
+    },
+    {
+        "name": "Session_6",
+        "path": "./data/sessions/Session_6",
+        "created_at": "2024-12-01T19:20:09.029403"
+    },
+    {
+        "name": "Session_7",
+        "path": "./data/sessions/Session_7",
+        "created_at": "2024-12-01T19:23:00.029838"
+    },
+    {
+        "name": "Session_8",
+        "path": "./data/sessions/Session_8",
+        "created_at": "2024-12-01T19:23:00.519777"
+    },
+    {
+        "name": "Session_9",
+        "path": "./data/sessions/Session_9",
+        "created_at": "2024-12-01T19:23:00.525360"
+    },
+    {
+        "name": "Session_10",
+        "path": "./data/sessions/Session_10",
+        "created_at": "2024-12-01T19:25:24.997409"
+    },
+    {
+        "name": "Session_11",
+        "path": "./data/sessions/Session_11",
+        "created_at": "2024-12-01T19:25:25.055677"
+    }
+]
