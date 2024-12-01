@@ -28,7 +28,7 @@ Tools for packaging as .exe: pyinstaller
 
 Steps
 1. Clone this repository: 
-git clone https://github.com/your-repo/DiseasesEaseAI.git
+git clone https://github.com/SymptomsEaseAi.git
 cd DiseasesEaseAI
 
 2. Install dependencies:
@@ -61,7 +61,7 @@ DiseasesEaseAI/
 └── tests/              # Unit and integration tests
 
 
-Usage
+# Usage
 Start the Application: Run ui_main.py to launch the DiseasesEaseAI interface.
 
 Create a New Session:
